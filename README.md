@@ -36,13 +36,7 @@ A modern, feature-rich cache cleaning tool for Joomla with Ajax interface, real-
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/600x400/667eea/ffffff?text=Modern+Cache+Cleaner+Interface)
-
-### Scan Results
-![Scan Results](https://via.placeholder.com/600x300/f8f9ff/333333?text=Detailed+Cache+Analysis)
-
-### Confirmation Modal
-![Confirmation](https://via.placeholder.com/500x300/fff3cd/856404?text=Security+Confirmation+Modal)
+![Main Interface]([https://via.placeholder.com/600x400/667eea/ffffff?text=Modern+Cache+Cleaner+Interface](https://www.techno.rn.tn/images/2025/08/24/joomla-cache-cleaner.webp))
 
 ## 🚀 Quick Start
 
